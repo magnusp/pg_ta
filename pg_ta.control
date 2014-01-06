@@ -1,0 +1,5 @@
+# pg_ta extension
+comment = 'A short description'
+default_version = '1.0'
+module_pathname = '$libdir/pg_ta'
+relocatable = true
